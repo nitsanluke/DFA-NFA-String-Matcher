@@ -1,6 +1,6 @@
 # DFA-NFA-String-Matcher
 
-##Author: Luke Nitish Kumar	     
+###Author: Luke Nitish Kumar	     
 
 ##Description:
 
