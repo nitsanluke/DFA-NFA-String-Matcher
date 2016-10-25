@@ -1,7 +1,8 @@
-## DFA-NFA-String-Matcher
-#Author: Luke Nitish Kumar	     
+# DFA-NFA-String-Matcher
 
-#Description:
+##Author: Luke Nitish Kumar	     
+
+##Description:
 
 The tool is capable of handling both Deterministic Finite Automata (DFA) and Non Deterministic Finite Automata (FNA).  
 Tool is developed using java 1.6 and net beans IDE and the source code which is produced is a net beans project file. The net beans project file (filename: finiteAutomata) has all the source code and the .jar file (finiteAutomata/dist) which is the executable.
